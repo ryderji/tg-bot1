@@ -10,8 +10,8 @@ import yt_dlp
 
 #from dotenv import load_dotenv
 
-load_dotenv()
-BOT_TOKEN = os.getenv("BOT_TOKKEN")
+
+BOT_TOKEN = ("8756849498:AAHeMos32AjUNgF1f6P5pJ1_ejyvOnYTZwY")
 
 # =========================
 # НАСТРОЙКИ
